@@ -1,6 +1,6 @@
 name: elliptic_gin
 dataset:
-  features_path: data/elliptic/elliptic_txs_features.csv.zip
+  features_path: data/elliptic/elliptic_txs_features.csv
   edges_path: "data/elliptic/elliptic_txs_edgelist.csv"
   classes: "data/elliptic/elliptic_txs_classes.csv"
 
